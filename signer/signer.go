@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 	
-	"github.com/codegente/btcec/tree/master/btcec"
+	"github.com/codegente/btcec/btcec"
 
 )
 
