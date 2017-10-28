@@ -6,7 +6,6 @@ import (
 	"log"
 	"os"
 
-	"github.com/btcsuite/btcd/btcec"
 )
 
 func main() {
