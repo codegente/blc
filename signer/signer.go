@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 	
-	"github.com/codegente/btcec/btcec"
+	"go get github.com/btcsuite/btcd/btcec"
 
 )
 
